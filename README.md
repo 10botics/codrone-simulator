@@ -1,5 +1,6 @@
 ### After Sucessfully Opening Drone Simulator
 Download the python sample file in the link below to confirm the setup has been completed
+[Download Latest Release](https://github.com/10botics/codrone-simulator-sdk-python)
 
 ### Intrdouction
 This project is about the software providing virtual simulation on CoDrone. There are two types of simulation. The first one is directly controlling the drone with a controller. The second one is using python api to controll the drone.
@@ -12,13 +13,10 @@ This project is about the software providing virtual simulation on CoDrone. Ther
 - Obstacle editor for customizing the obstacles in the scene
 
 ## Setup
-1. Open the software
-
-## Troubleshooting
-- If the controller is not working what should I do?
-    1. Press the middle button of the controller to turn on the controller. The controller will sleep if there is no any input within preiod of the time.
-    2. If you are using windows, open the Set up USB Conttoller in the control panel. Make sure the controller is listed in the list. Click on the controller and click on the properties button. You should see the values is changing according to what you press on the controller if the controller is working. If the controller is not working, try to unplug and plug in the controller again. If the controller is still not working, try to restart the computer.
-    3. If the controller is working while the software is not respond to the controller, try to restart the software.
+1. Unzip Zip file to desired location
+2. Open folder
+3. Run Unity.exe file
+4. Allow Network Access Request 
 
 ### Python Drone Simulator
 ## Original API Supported
