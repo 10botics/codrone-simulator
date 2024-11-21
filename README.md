@@ -1,38 +1,18 @@
+### After Sucessfully Opening Drone Simulator
+Download the python sample file in the link below to confirm the setup has been completed
+
 ### Intrdouction
 This project is about the software providing virtual simulation on CoDrone. There are two types of simulation. The first one is directly controlling the drone with a controller. The second one is using python api to controll the drone.
 
 ### Features
 - Multiple 3D scenes with CoDrone model and animation
-- Realistic and fluent movement and animation inside controller drone simulator
-- Rumble for collision respone inside controller drone simulaor(Only support Logetech F710 Wireless Gamepad)
 - Simple to use Python API for drone controllering inside python drone simulator
 - MiniMap, command and coordinate system help for understanding of the python codes
 - Multiple obstacles for drone flight training
 - Obstacle editor for customizing the obstacles in the scene
 
-### Controller Drone Simulator
-
-## Input
-
-# Supported Gamepad
-- Logitech F310 Gamepad (Do not support rumble)
-- Logitech F710 Wireless Gamepad
-
-# Original Controll Supported
-- Yaw, Throttle, Roll and Pitch
-- Change flight speed
-- Slow takeoff/land
-- 
-
-# Extra Input Supported
-- Toggle character/drone mode (Gamepad Y button)
-- Character movement (Left joystick)
-- Camera rotation (Right joystick)
-- Camera zoom (Up and down direction key)
-
 ## Setup
 1. Open the software
-2. Plugin the gamepad
 
 ## Troubleshooting
 - If the controller is not working what should I do?
@@ -117,9 +97,9 @@ This project is about the software providing virtual simulation on CoDrone. Ther
 - Toggle the visiablity of the drone properties panel and the Info panel (T)
 
 ## Running Guild Line
-- You can install the Python API by directly downlad the source file or install though PYPI (Currently not supported)
+- Install "codrone-simulator" package through Windows CMD or MAC Terminal
 - Turn on the Python drone simulator
-- Run the code with the python enviorment in your computer
+- Run the code with the python enviorment in your computer (VS Code or PyCharm)
 - Note: If you have a code written for the Real CoDrone API, change the import command:
     From codrone_edu.drone import Drone => From codrone_simulator import Drone
     From codrone_edu.protocol import Note => From codrone_simulator import Note
