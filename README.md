@@ -63,6 +63,12 @@ Link to Github Custom API Package: https://github.com/10botics/codrone-simulator
 - release()
     - The drone will release the grabbed object if the drone has grabbed one. The released object will be placed on the drone position with height equal zero(y = 0). If there is no grabbed object, this command will be ignored. Note that this command need to be run before running the land command as the drone with grabbed object will not be able to land.
 
+- reset_position_and_rotation()
+  - The drone will be teleported to the initial position and rotation. The initial position and rotation is the position and rotation of the drone when the drone simulator is opened. Note: This Command will not reset the Timer or the score. Only Reset the Drone Position)
+
+- send_message(message):
+  - The Drone will send out a message to the console. The message is the inputed string message. The message will be shown in the console of the drone simulator. Note that the message will be shown in the console of the drone simulator, not the python console.
+
 ### Extra API
 - teleport_to(x, y, z)
   - The x, y and z formed the coordinate of the position that the drone will going to teleport. It is an y-up left-handed coordinate system. The drone will directly teleport to the inputed position drone after the execution of this line. Note that there are boundary set for the teleport range.
