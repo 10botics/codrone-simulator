@@ -20,31 +20,36 @@ Before using the simulator, make sure you have the following installed:
     ```bash
     pip install codrone-simulator
     ```
+![image](https://github.com/user-attachments/assets/1c6959f4-a0b8-456a-b108-b75fb3660a62)   
+
 3. Installed VS Code or PyCharm: [Download VS Code](https://code.visualstudio.com/download) or [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
 4. Download the Drone Simulator: [Download Latest](https://github.com/10botics/codrone-simulator/releases/latest)
-5. Download Hello World Drone Commands File: [HelloWorld python File](https://github.com/10botics/codrone-simulator-sdk-python/blob/main/HelloWorld.py)
-
+5. Download Hello World Drone Commands File: [HelloWorld python File](https://github.com/10botics/codrone-simulator/blob/main/HelloWorld.py)
+---
 ### Running Simulator
 1. Extract downloaded zip file to Desktop Folder
 2. Open extracted Folder
 3. Run the Drone.exe File
+
+![image](https://github.com/user-attachments/assets/3e4a8ec0-4c17-42ab-935a-66cef9b43cac)
+
 4. Wait for the simulator to open
 5. Allow Firewall Access
+
 ![image](https://github.com/user-attachments/assets/12fbed66-ff86-4b30-aa56-14cc0cf57293)
+
 6. Select Free Play
-![image](https://github.com/user-attachments/assets/e79b912e-1a88-4761-b3aa-2c584e80648e)
 
-### First Drone Commands
+![image](https://github.com/user-attachments/assets/bd0d8d5d-c9a6-4a6d-bc5e-2bcafe4b1b20)
 
-Download the python sample file in the link below to confirm the setup has been completed
-[Download Latest Release](https://github.com/10botics/codrone-simulator-sdk-python)
 ---
-## Features
-- Multiple 3D scenes with CoDrone model and animation
-- Simple to use Python API for drone controlling inside python drone simulator
-- MiniMap, command and coordinate system help for understanding of the python codes
-- Multiple obstacles for drone flight training
-- Obstacle editor for customizing the obstacles in the scene
+### First Drone Commands
+1. Open the File in either VS Code or PyCharm 
+2. Make sure you see this window in the simulator
+
+![image](https://github.com/user-attachments/assets/8973434f-f91e-4903-a16a-b88c335b4e62)
+
+3. Run the Python File and watch your drone takeoff make noise and land
 ---
 ## Python Drone Simulator
 ### Original Drone API Supported
