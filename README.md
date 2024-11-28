@@ -16,15 +16,21 @@ Follow these steps to get started with the Drone Simulator:
 ### Pre-requisites
 Before using the simulator, make sure you have the following installed:
 1. Python 3.6+: [Download Python](https://www.python.org/downloads/)
-2. Codrone Simulator Package: Install the package via pip
+2. Codrone Simulator Package: Install the package via pip through Windows CMD or MAC Terminal
     ```bash
     pip install codrone-simulator
     ```
 ![image](https://github.com/user-attachments/assets/1c6959f4-a0b8-456a-b108-b75fb3660a62)   
 
 3. Installed VS Code or PyCharm: [Download VS Code](https://code.visualstudio.com/download) or [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
-4. Download the Drone Simulator: [Download Latest](https://github.com/10botics/codrone-simulator/releases/latest)
-5. Download Hello World Drone Commands File: [HelloWorld python File](https://github.com/10botics/codrone-simulator/blob/main/HelloWorld.py)
+4. Install python extensions in VS Code or PyCharm
+    - VS Code: [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+
+![image](https://github.com/user-attachments/assets/d4fcc94d-a63e-4a37-80b5-8ce558b66455)
+
+  - PyCharm: [Pycharm Setup](https://learn.robolink.com/lesson/0-3-pycharm-installation-cde/)
+5. Download the Drone Simulator: [Download Latest](https://github.com/10botics/codrone-simulator/releases/latest)
+6. Download Hello World Drone Commands File: [HelloWorld python File](https://github.com/10botics/codrone-simulator/blob/main/HelloWorld.py)
 ---
 ### Running Simulator
 1. Extract downloaded zip file to Desktop Folder
