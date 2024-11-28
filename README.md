@@ -1,21 +1,44 @@
-# Codrone Simulator Unity Releases
+# Codrone Simulator
 
-## How to Open Drone Simulator
-1. Unzip Zip file to desired location
-2. Open folder
-3. Run Unity.exe file
-4. Allow Network Access Request
+## Introduction
+This project is about the software providing virtual simulation on CoDrone. There are two types of simulation. The first one is directly controlling the drone with a controller. The second one is using python api to control the drone.
 
-## After Successfully Opening Drone Simulator
-Opened Drone Simulator should look like this:
-![OpenUnityexe](https://github.com/user-attachments/assets/cd73b3ec-db4b-48d5-9738-2789b0dba9aa)
+## Features
+- Multiple 3D scenes with CoDrone model and animation
+- Simple to use Python API for drone controlling inside python drone simulator
+- MiniMap, command and coordinate system help for understanding of the python codes
+- Multiple obstacles for drone flight training
+- Obstacle editor for customizing the obstacles in the scene
+---
+## Getting Started
+Follow these steps to get started with the Drone Simulator:
+
+### Pre-requisites
+Before using the simulator, make sure you have the following installed:
+1. Python 3.6+: [Download Python](https://www.python.org/downloads/)
+2. Codrone Simulator Package: Install the package via pip
+    ```bash
+    pip install codrone-simulator
+    ```
+3. Installed VS Code or PyCharm: [Download VS Code](https://code.visualstudio.com/download) or [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
+4. Download the Drone Simulator: [Download Latest](https://github.com/10botics/codrone-simulator/releases/latest)
+5. Download Hello World Drone Commands File: [HelloWorld python File](https://github.com/10botics/codrone-simulator-sdk-python/blob/main/HelloWorld.py)
+
+### Running Simulator
+1. Extract downloaded zip file to Desktop Folder
+2. Open extracted Folder
+3. Run the Drone.exe File
+4. Wait for the simulator to open
+5. Allow Firewall Access
+![image](https://github.com/user-attachments/assets/12fbed66-ff86-4b30-aa56-14cc0cf57293)
+6. Select Free Play
+![image](https://github.com/user-attachments/assets/e79b912e-1a88-4761-b3aa-2c584e80648e)
+
+### First Drone Commands
 
 Download the python sample file in the link below to confirm the setup has been completed
 [Download Latest Release](https://github.com/10botics/codrone-simulator-sdk-python)
 ---
-## Introduction
-This project is about the software providing virtual simulation on CoDrone. There are two types of simulation. The first one is directly controlling the drone with a controller. The second one is using python api to control the drone.
-
 ## Features
 - Multiple 3D scenes with CoDrone model and animation
 - Simple to use Python API for drone controlling inside python drone simulator
