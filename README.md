@@ -1,7 +1,7 @@
 # Codrone Simulator
 
 ## Introduction
-This project is about the software providing virtual simulation on CoDrone. There are two types of simulation. The first one is directly controlling the drone with a controller. The second one is using python api to control the drone.
+This project is about the software providing virtual simulation for CoDrone. Using python api to control the drone.
 
 ## Features
 - Multiple 3D scenes with CoDrone model and animation
