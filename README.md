@@ -49,8 +49,8 @@ Before using the simulator, make sure you have the following installed:
 ![image](https://github.com/user-attachments/assets/bd0d8d5d-c9a6-4a6d-bc5e-2bcafe4b1b20)
 
 ---
-### First Drone Commands
-1. Open the File in either VS Code or PyCharm 
+### Test Hello World Python File to Move Drone
+1. Open the [HelloWorld python File](https://github.com/10botics/codrone-simulator/blob/main/HelloWorld.py) in either VS Code or PyCharm 
 2. Make sure you see this window in the simulator
 
 ![image](https://github.com/user-attachments/assets/8973434f-f91e-4903-a16a-b88c335b4e62)
