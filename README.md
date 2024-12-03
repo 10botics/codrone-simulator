@@ -87,7 +87,7 @@ Link to Original API: https://docs.robolink.com/docs/CoDroneEDU/Python/Function-
 - get_bottom_range()
 - get_front_range()
 
-## Custom Drone Simulator API
+### Custom Drone Simulator API
 Link to Github Custom API Package: https://github.com/10botics/codrone-simulator-sdk-python
 
 ### Extra Drone API
