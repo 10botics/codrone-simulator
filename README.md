@@ -59,7 +59,7 @@ Before using the simulator, make sure you have the following installed:
 ## Python Drone Simulator
 
 ### Obstacle Editor
-- Link to Obstacle Editor README: [Obstacle Editor README]()
+- Link to Obstacle Editor README: [Obstacle Editor README](https://github.com/10botics/codrone-simulator/blob/main/ObstacleEditorREADME.md)
 
 ### Original Drone API Supported
 Link to Original API: https://docs.robolink.com/docs/CoDroneEDU/Python/Function-Documentation
