@@ -21,13 +21,13 @@ Before using the simulator, make sure you have the following installed:
     ```
 ![image](https://github.com/user-attachments/assets/1c6959f4-a0b8-456a-b108-b75fb3660a62)   
 
-3. Installed VS Code or PyCharm: [Download VS Code](https://code.visualstudio.com/download) or [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
+3. Install VS Code or PyCharm Community Edition: [Download VS Code](https://code.visualstudio.com/download) or [Download PyCharm](https://www.jetbrains.com/pycharm/download/)
 4. Install python extensions in VS Code or PyCharm
     - VS Code: [Python Extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 ![image](https://github.com/user-attachments/assets/d4fcc94d-a63e-4a37-80b5-8ce558b66455)
 
-  - PyCharm: [Pycharm Setup](https://learn.robolink.com/lesson/0-3-pycharm-installation-cde/)
+  - PyCharm Community Edition: [Pycharm Setup](https://learn.robolink.com/lesson/0-3-pycharm-installation-cde/)
 5. Download the Drone Simulator: [Download Latest](https://github.com/10botics/codrone-simulator/releases/latest)
 6. Download Hello World Drone Commands File: [HelloWorld python File](https://github.com/10botics/codrone-simulator/blob/main/HelloWorld.py)
 ---
