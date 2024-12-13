@@ -14,7 +14,9 @@ Follow these steps to get started with the Drone Simulator:
 
 ### Pre-requisites
 Before using the simulator, make sure you have the following installed:
-1. Python 3.6+: [Download Python](https://www.python.org/downloads/)
+1. Python 3.11: [Download Python](https://www.python.org/downloads/release/python-3116/)
+- [Python Windows Installer](https://www.python.org/ftp/python/3.11.6/python-3.11.6-amd64.exe)
+- [Python Mac Installer](https://www.python.org/ftp/python/3.11.6/python-3.11.6-macos11.pkg)
 2. Codrone Simulator Package: Install the package via pip through Windows CMD or MAC Terminal
     ```bash
     pip install codrone-simulator
