@@ -115,7 +115,8 @@ Before using the simulator, make sure you have the following installed:
      ```bash
      python3 --version
      ```
-  ![image](https://github.com/user-attachments/assets/25b7bfac-d31b-45e5-92a5-4a0c4fd92208)
+     ![image](https://github.com/user-attachments/assets/25b7bfac-d31b-45e5-92a5-4a0c4fd92208)
+  
    - Note: If Python is already installed, you'll see your current version number
 
 2. Install JupyterLab
@@ -128,13 +129,14 @@ Before using the simulator, make sure you have the following installed:
 
 3. Download Required Files
    - Download JupyterLab Files: [Download JupyterLab Files](https://github.com/10botics/codrone-simulator/blob/main/Drone%20Simulator.zip)
-   - Download the [Drone Simulator](https://github.com/10botics/codrone-simulator/releases/latest)
-   - Create a folder on Desktop named "Drone_Simulator"
-   - Extract JupyterLab files into the folder
+   ![image](https://github.com/user-attachments/assets/d7daf959-4b1a-4ae2-acfe-26e78641a49b)
+   - Download the [Drone Simulator](https://github.com/10botics/codrone-simulator/releases/latest) ( DroneSimMac.zip )
+   - Extract Drone Simulator.zip to Desktop
 
 ### Opening JupyterLab
-1. Open the Drone_Simulator folder on your Desktop
-2. Right-click (or Control+click) inside the Drone_Simulator folder [ADD IMAGE]
+1. Open the Drone Simulator folder on your Desktop
+2. Right-click (or Control+click) inside the Drone_Simulator folder <img width="379" alt="Screenshot 2024-12-20 at 11 27 45 AM" src="https://github.com/user-attachments/assets/f156d5b3-ef84-4100-9893-09974779b6e9" />
+
 3. Select "New Terminal at Folder" from the menu
    - If you don't see this option:
      1. Press Command + Space to open Spotlight Search
@@ -143,43 +145,60 @@ Before using the simulator, make sure you have the following installed:
         ```bash
         cd Desktop/Drone_Simulator
         ```
-        [ADD IMAGE]
 4. In the Terminal window, start JupyterLab:
    ```bash
    jupyter lab
    ```
-   [ADD IMAGE]
-5. Your default web browser will open with JupyterLab [ADD IMAGE]
+   <img width="387" alt="Screenshot 2024-12-20 at 12 14 44 PM" src="https://github.com/user-attachments/assets/055cc140-64a2-4410-87fd-ebd9a9f1c365" />
+
+5. Your default web browser will open with JupyterLab 
+<img width="850" alt="Screenshot 2024-12-20 at 11 55 27 AM" src="https://github.com/user-attachments/assets/5abe350b-6818-4364-bcf3-f59e0beb667a" />
+
 
 ### Running Simulator
 1. Extract the Simulator
    - Locate the downloaded Drone Simulator zip file
-   - Double click to extract the contents [ADD IMAGE]
+   - Double click to extract the contents
+   
+      <img width="117" alt="Screenshot 2024-12-20 at 11 56 41 AM" src="https://github.com/user-attachments/assets/7e81133a-0a41-49c9-8456-dbb04d9c6bde" />
+
 
 2. Move to Applications
-   - Drag the extracted Drone Simulator app to your Applications folder [ADD IMAGE]
+   - Drag the extracted Drone Simulator app to your Applications folder
+   <img width="553" alt="Screenshot 2024-12-20 at 11 58 25 AM" src="https://github.com/user-attachments/assets/4b3a9bce-8947-4176-b1e0-8aebe535d91a" />
+
 
 3. Access Package Contents
    - Right-click (or Control+click) on the Drone Simulator app in Applications
    - Select "Show Package Contents"
-   - Navigate to Contents/MacOS folder [ADD IMAGE]
+   <img width="392" alt="Screenshot 2024-12-20 at 11 59 25 AM" src="https://github.com/user-attachments/assets/858a36e3-4355-4126-8c96-029b7c215d1c" />
+
+   - Navigate to Contents/MacOS folder
+   <img width="275" alt="Screenshot 2024-12-20 at 12 00 48 PM" src="https://github.com/user-attachments/assets/f18ea8a6-a870-4b34-9928-bf28bede89b1" />
+
 
 4. Set Permissions
    - To open Terminal at the MacOS folder location:
      1. Right-click (or Control+click) in the MacOS folder
      2. Select "New Terminal at Folder"
+     <img width="363" alt="Screenshot 2024-12-20 at 12 01 45 PM" src="https://github.com/user-attachments/assets/eab5cfd7-765c-4ced-bf3f-80666bbf9f38" />
+
    - Run:
      ```bash
      chmod +x Drone
      ```
-     [ADD IMAGE]
+     <img width="335" alt="Screenshot 2024-12-20 at 12 04 39 PM" src="https://github.com/user-attachments/assets/b8fdf06c-e79a-4872-a4c9-62e842db67c8" />
 
 5. Launch Simulator
    - In Terminal, run:
      ```bash
      ./Drone
      ```
-   - The simulator window should open [ADD IMAGE]
+     <img width="325" alt="Screenshot 2024-12-20 at 12 05 30 PM" src="https://github.com/user-attachments/assets/276c942f-e509-4716-815c-e2764d2dd191" />
+
+   - The simulator window should open 
+   <img width="945" alt="Screenshot 2024-12-20 at 12 10 25 PM" src="https://github.com/user-attachments/assets/463fee58-eaa8-4f9a-845c-2bc9557307d1" />
+
 
 6. Select Mode
    - Click the "Freeplay" button to enter freeplay mode
@@ -199,11 +218,13 @@ A sample notebook with a basic drone program is provided in `hello_world.ipynb`.
 
 3. Open hello_world.ipynb
    - Click the file browser icon in the left sidebar
-   - Navigate to and double-click hello_world.ipynb [ADD IMAGE]
+   - Navigate to and double-click hello_world.ipynb 
+   <img width="879" alt="Screenshot 2024-12-20 at 12 11 20 PM" src="https://github.com/user-attachments/assets/fa298a3b-a5c5-44c8-b732-72681488977e" />
+
 
 4. Run the code
    - Follow along with the notebook instructions
-   - Run each cell by clicking the "Run" button (play icon) or pressing Shift+Enter [ADD IMAGE]
+   - Run each cell by clicking the "Run" button (play icon) or pressing Shift+Enter
 
 5. Congratulations! You've run your first drone program
 
