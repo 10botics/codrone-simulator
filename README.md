@@ -42,13 +42,13 @@ Before using the simulator, make sure you have the following installed:
    ![Jupyter Install](https://github.com/user-attachments/assets/cdef80a6-9abe-464d-aa7c-fdd0dd75b9c2)
 
 3. Download Required Files
-   - Download JupyterLab Files: [Download JupyterLab Files "ADD FILES"]()
-   - Download the [Drone Simulator](https://github.com/10botics/codrone-simulator/releases/latest)
-   - Create a Folder on Desktop (Name: "Drone_Simulator")
-   - Extract all downloaded files into the folder
+   - Download JupyterLab Files: [Download JupyterLab Files](https://github.com/10botics/codrone-simulator/blob/main/Drone%20Simulator.zip)
+   ![image](https://github.com/user-attachments/assets/d7daf959-4b1a-4ae2-acfe-26e78641a49b)
+   - Download the [Drone Simulator](https://github.com/10botics/codrone-simulator/releases/latest) ( DroneSimWin.zip )
+   - Extract Drone Simulator.zip to Desktop
 ---
 ### Open JupyterLab
-1. Open DroneSim Folder on the Desktop
+1. Open Drone Simulator Folder on the Desktop
 2. Type CMD into the Address Bar
    ![image](https://github.com/user-attachments/assets/2fe6ddbe-7104-402b-a691-0ab9253e5d16)
 3. Press Enter to Open Command Prompt
@@ -81,7 +81,7 @@ Before using the simulator, make sure you have the following installed:
 
 ---
 ### Test Hello World Python File to Move Drone
-1. Open DroneSim Folder on the Desktop
+1. Open Drone Simulator Folder on the Desktop
 2. Type CMD into the Address Bar
    ![image](https://github.com/user-attachments/assets/2fe6ddbe-7104-402b-a691-0ab9253e5d16)
 3. Press Enter to Open Command Prompt
@@ -90,8 +90,8 @@ Before using the simulator, make sure you have the following installed:
     jupyter lab
     ```
 5. Open the HelloWorld.ipynb file in JupyterLab
+![image](https://github.com/user-attachments/assets/298290ce-3d8f-4385-a632-09491740a3c1)
 6. Make sure you see this window in the simulator
-
 ![image](https://github.com/user-attachments/assets/8973434f-f91e-4903-a16a-b88c335b4e62)
 
 7. Follow the instructions in the notebook to move the drone in the simulator
@@ -124,9 +124,10 @@ Before using the simulator, make sure you have the following installed:
      ```bash
      pip3 install jupyterlab
      ```
+     ![image](https://github.com/user-attachments/assets/4ad83ab1-0eae-404f-8388-5445d35c3b4c)
 
 3. Download Required Files
-   - Download JupyterLab Files: [Download JupyterLab Files "ADD FILES"]()
+   - Download JupyterLab Files: [Download JupyterLab Files](https://github.com/10botics/codrone-simulator/blob/main/Drone%20Simulator.zip)
    - Download the [Drone Simulator](https://github.com/10botics/codrone-simulator/releases/latest)
    - Create a folder on Desktop named "Drone_Simulator"
    - Extract JupyterLab files into the folder
@@ -164,7 +165,9 @@ Before using the simulator, make sure you have the following installed:
    - Navigate to Contents/MacOS folder [ADD IMAGE]
 
 4. Set Permissions
-   - Open Terminal at the MacOS folder location
+   - To open Terminal at the MacOS folder location:
+     1. Right-click (or Control+click) in the MacOS folder
+     2. Select "New Terminal at Folder"
    - Run:
      ```bash
      chmod +x Drone
@@ -182,6 +185,8 @@ Before using the simulator, make sure you have the following installed:
    - Click the "Freeplay" button to enter freeplay mode
    ![image](https://github.com/user-attachments/assets/bd0d8d5d-c9a6-4a6d-bc5e-2bcafe4b1b20)
 
+Note: After completing these steps, you can also launch the simulator directly from your Applications folder by double-clicking the Drone app.
+
 ### Hello World Example
 A sample notebook with a basic drone program is provided in `hello_world.ipynb`.
 
@@ -197,8 +202,8 @@ A sample notebook with a basic drone program is provided in `hello_world.ipynb`.
    - Navigate to and double-click hello_world.ipynb [ADD IMAGE]
 
 4. Run the code
-   - Click the "Run" button (play icon) or press Shift+Enter
-   - The drone should takeoff, make noise and hover for 2 seconds, then land [ADD IMAGE]
+   - Follow along with the notebook instructions
+   - Run each cell by clicking the "Run" button (play icon) or pressing Shift+Enter [ADD IMAGE]
 
 5. Congratulations! You've run your first drone program
 
