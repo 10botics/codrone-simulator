@@ -181,25 +181,47 @@ Before using the simulator, make sure you have the following installed:
    - To open Terminal at the MacOS folder location:
      1. Right-click (or Control+click) in the MacOS folder
      2. Select "New Terminal at Folder"
-     <img width="363" alt="Screenshot 2024-12-20 at 12 01 45 PM" src="https://github.com/user-attachments/assets/eab5cfd7-765c-4ced-bf3f-80666bbf9f38" />
+     <img width="363" alt="Screenshot 2024-12-20 at 12 01 45 PM" src="https://github.com/user-attachments/assets/eab5cfd7-765c-4ced-bf3f-80666bbf9f38" />
+
+   - Switch to bash shell:
+     ```bash
+     bash
+     ```
+     <img width="387" alt="Screenshot 2024-12-20 at 1 35 56 PM" src="https://github.com/user-attachments/assets/a9e9380a-ef9f-4762-85cf-28a82ca2fb02" />
 
    - Run:
      ```bash
      chmod +x Drone
      ```
-     <img width="335" alt="Screenshot 2024-12-20 at 12 04 39 PM" src="https://github.com/user-attachments/assets/b8fdf06c-e79a-4872-a4c9-62e842db67c8" />
+     <img width="489" alt="Screenshot 2024-12-20 at 1 32 47 PM" src="https://github.com/user-attachments/assets/30a7eb89-4864-48cb-b165-96cb03968def" />
+
 
 5. Launch Simulator
    - In Terminal, run:
      ```bash
      ./Drone
      ```
-     <img width="325" alt="Screenshot 2024-12-20 at 12 05 30 PM" src="https://github.com/user-attachments/assets/276c942f-e509-4716-815c-e2764d2dd191" />
+     <img width="504" alt="Screenshot 2024-12-20 at 1 33 18 PM" src="https://github.com/user-attachments/assets/03d9e698-e98d-49c4-9db1-eec481139670" />
+
+   - If you see an error saying "cannot open", follow these steps:
+   <img width="317" alt="Screenshot 2024-12-20 at 1 42 09 PM" src="https://github.com/user-attachments/assets/b9982b8d-5080-42fa-b47a-9f74367e8e5b" />
+     1. Close the Terminal window
+     2. Go to your Applications folder
+     3. Open a new Terminal window
+     <img width="452" alt="Screenshot 2024-12-20 at 3 11 36 PM" src="https://github.com/user-attachments/assets/d15a9601-dd33-4d0d-ab07-3ee1f9d8c8aa" />
+
+
+     4. Enter the following command:
+        ```bash
+        xattr -r -d com.apple.quarantine /Applications/DroneSimMac.app
+        ```
+        <img width="666" alt="Screenshot 2024-12-20 at 3 13 21 PM" src="https://github.com/user-attachments/assets/cfa63515-a220-4679-849a-90d3552c6f25" />
+
 
    - The simulator window should open 
-   <img width="945" alt="Screenshot 2024-12-20 at 12 10 25 PM" src="https://github.com/user-attachments/assets/463fee58-eaa8-4f9a-845c-2bc9557307d1" />
+   <img width="945" alt="Screenshot 2024-12-20 at 12 10 25 PM" src="https://github.com/user-attachments/assets/463fee58-eaa8-4f9a-845c-2bc9557307d1" />
 
-
+   
 6. Select Mode
    - Click the "Freeplay" button to enter freeplay mode
    ![image](https://github.com/user-attachments/assets/bd0d8d5d-c9a6-4a6d-bc5e-2bcafe4b1b20)
