@@ -8,11 +8,6 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 - Simple to use Python API for drone controlling inside python drone simulator
 - MiniMap, command and coordinate system help for understanding of the python codes
 - Multiple obstacles for drone flight training
-- 
-### 📖 Additional Documentation
-- [Windows setup](./Win_Setup.md)
-- [Mac Setup](./Mac_Setup.md)
-
 ---
 ## Getting Started
 Follow these steps to get started with the Drone Simulator:
