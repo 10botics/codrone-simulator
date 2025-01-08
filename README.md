@@ -1,5 +1,8 @@
 # Codrone Simulator
 
+![image](https://github.com/user-attachments/assets/3a7d0107-2747-41c6-9f2b-0d075df50f97)
+
+
 ## Introduction
 This project is about the software providing virtual simulation for CoDrone. Using python API to control the drone.
 
