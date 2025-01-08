@@ -25,8 +25,8 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 ## Prerequisites
 ### Python
 - Python 3.11 required to run the Drone Commands
-  - [Python Windows Install Guide](./Python_Win_Install.md)
-  - [Python MacOS Install Guide](./Python_Mac_Install.md)
+  - [Python Windows Install Guide](./docs/Python_Win_Install.md)
+  - [Python MacOS Install Guide](./docs/Python_Mac_Install.md)
 
 ### SDK
 - This SDK Contains the Drone Simulator API to control the Drone
@@ -37,29 +37,29 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 ## Install Drone Simulator
 
 
-  - [Drone Simulator Windows Install Guide](./DroneSim_Win_Install.md)
+  - [Drone Simulator Windows Install Guide](./docs/DroneSim_Win_Install.md)
 
-  - [Drone Simulator MacOS Install Guide](./DroneSim_Mac_Install.md)
+  - [Drone Simulator MacOS Install Guide](./docs/DroneSim_Mac_Install.md)
 
 
 ## JupyterLab
 JupyterLab is an interactive development environment that allows you to create and run Python code in notebook format. For the Codrone Simulator.
 
-  - [JupyterLab Windows Install Guide](./Jupyterlab_Win_Install.md)
+  - [JupyterLab Windows Install Guide](./docs/Jupyterlab_Win_Install.md)
 
-  - [JupyterLab MacOS Install Guide](./Jupyterlab_Mac_Install.md)
+  - [JupyterLab MacOS Install Guide](./docs/Jupyterlab_Mac_Install.md)
 
 
 ## Hello World
 Create your first drone program with the Hello World example.
 
 Follow Instrcutions to control the Drone
-  - [Hello World Jupyterlab Guide](./HelloWorld_Jupy.md)
+  - [Hello World Jupyterlab Guide](./docs/HelloWorld_Jupy.md)
 
 ## Python Drone Simulator
 
 ### Obstacle Editor
-- Link to Obstacle Editor README: [Obstacle Editor README](https://github.com/10botics/codrone-simulator/blob/main/ObstacleEditorREADME.md)
+- Link to Obstacle Editor README: [Obstacle Editor README](./docs/ObstacleEditorREADME.md)
 
 ### Original Drone API Supported
 Link to Original API: https://docs.robolink.com/docs/CoDroneEDU/Python/Function-Documentation
