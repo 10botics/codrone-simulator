@@ -10,13 +10,13 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 - Multiple obstacles for drone flight training
 
 # Prerequisites
-## Python
+### Python
 - Python 3.11 required to interact with the Simulator
 - See setup guides for installation instructions:
   - [Python Windows Install Guide](./Python_Win_Install.md)
   - [Python MacOS Install Guide](./Python_Mac_Install.md)
 
-## SDK
+### SDK
 - Install SDK using pip:
   ```bash
   pip install codrone_simulator
@@ -25,26 +25,23 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 # Install Drone Simulator
 
 
-## Windows
-- Install the Drone Simulator through Windows Store:
   - [Drone Simulator Windows Install Guide](./DroneSim_Win_Install.md)
 
-## MacOS
-- Install the Drone Simulator:
   - [Drone Simulator MacOS Install Guide](./DroneSim_Mac_Install.md)
 
 
 # JupyterLab
 JupyterLab is an interactive development environment that allows you to create and run Python code in notebook format. For the Codrone Simulator.
-- Install Jupyter lab for Windows:
+
   - [JupyterLab Windows Install Guide](./Jupyterlab_Win_Install.md)
-- Install Jupyter lab for MacOS:
+
   - [JupyterLab MacOS Install Guide](./Jupyterlab_Mac_Install.md)
 
 
 # Hello World
 Create your first drone program with the Hello World example.
-- Follow Instrcutions to control the Drone:
+
+Follow Instrcutions to control the Drone
   - [Hello World Jupyterlab Guide](./HelloWorld_Jupy.md)
 
 # Python Drone Simulator
