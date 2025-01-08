@@ -12,7 +12,6 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 # Prerequisites
 ### Python
 - Python 3.11 required to interact with the Simulator
-- See setup guides for installation instructions:
   - [Python Windows Install Guide](./Python_Win_Install.md)
   - [Python MacOS Install Guide](./Python_Mac_Install.md)
 
