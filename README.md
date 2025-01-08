@@ -16,8 +16,7 @@ This project is about the software providing virtual simulation for CoDrone. Usi
   - [Python MacOS Install Guide](./Python_Mac_Install.md)
 
 ### SDK
-- Contians the Drone Simulator API to control the Drone
-  - Install SDK using pip:
+- This SDK Contains the Drone Simulator API to control the Drone
   ```bash
   pip install codrone_simulator
   ```
