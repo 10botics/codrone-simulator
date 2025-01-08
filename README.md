@@ -9,19 +9,20 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 - MiniMap, command and coordinate system help for understanding of the python codes
 - Multiple obstacles for drone flight training
 
-# Prerequisites
+## Prerequisites
 ### Python
-- Python 3.11 required to interact with the Simulator
+- Python 3.11 required to run the Drone Commands
   - [Python Windows Install Guide](./Python_Win_Install.md)
   - [Python MacOS Install Guide](./Python_Mac_Install.md)
 
 ### SDK
-- Install SDK using pip:
+- Contians the Drone Simulator API to control the Drone
+  - Install SDK using pip:
   ```bash
   pip install codrone_simulator
   ```
 
-# Install Drone Simulator
+## Install Drone Simulator
 
 
   - [Drone Simulator Windows Install Guide](./DroneSim_Win_Install.md)
@@ -29,7 +30,7 @@ This project is about the software providing virtual simulation for CoDrone. Usi
   - [Drone Simulator MacOS Install Guide](./DroneSim_Mac_Install.md)
 
 
-# JupyterLab
+## JupyterLab
 JupyterLab is an interactive development environment that allows you to create and run Python code in notebook format. For the Codrone Simulator.
 
   - [JupyterLab Windows Install Guide](./Jupyterlab_Win_Install.md)
@@ -37,13 +38,13 @@ JupyterLab is an interactive development environment that allows you to create a
   - [JupyterLab MacOS Install Guide](./Jupyterlab_Mac_Install.md)
 
 
-# Hello World
+## Hello World
 Create your first drone program with the Hello World example.
 
 Follow Instrcutions to control the Drone
   - [Hello World Jupyterlab Guide](./HelloWorld_Jupy.md)
 
-# Python Drone Simulator
+## Python Drone Simulator
 
 ### Obstacle Editor
 - Link to Obstacle Editor README: [Obstacle Editor README](https://github.com/10botics/codrone-simulator/blob/main/ObstacleEditorREADME.md)

@@ -7,7 +7,7 @@
 ## Windows
 1. Install the Drone Simulator through Windows Store:
 
-    Codrone Simulator: [Windows Store](https://www.microsoft.com/store/apps/9P1Z3XZVZJZP)
+    Codrone Simulator: [Windows Store](https://apps.microsoft.com/detail/9P03665Z63QG?hl=en-us&gl=HK&ocid=pdpshare)
 
 ![image](https://github.com/user-attachments/assets/337b67f1-9613-4aff-93aa-7f8812f28ae7)
 
