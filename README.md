@@ -2,6 +2,16 @@
 
 ![image](https://github.com/user-attachments/assets/3a7d0107-2747-41c6-9f2b-0d075df50f97)
 
+<p align="center">
+  <a href="https://apps.microsoft.com/detail/9P03665Z63QG?hl=en-us&gl=HK&ocid=pdpshare">
+    <img src="https://github.com/user-attachments/assets/41758171-68b8-49c5-81cb-68fe62ba5bd0" alt="Get it from Microsoft Store" width="200"/>
+  </a>
+  <a href="https://apps.apple.com/">
+    <img src="https://github.com/user-attachments/assets/2a9a2327-014c-4e10-ba5f-9eee8c258ce2" alt="Download on the Mac App Store" width="285"/>
+  </a>
+</p>
+
+
 
 ## Introduction
 This project is about the software providing virtual simulation for CoDrone. Using python API to control the drone.
