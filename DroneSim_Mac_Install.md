@@ -97,7 +97,7 @@ Please follow the steps below for MacOS:
 
 5. Select Freeplay Mode
    - Click the "Freeplay" button to begin
-<br>
+
    ![image](https://github.com/user-attachments/assets/a3f1c34a-4dfa-451c-b784-702e550f6e1e)
 
 
