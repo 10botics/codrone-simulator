@@ -17,12 +17,17 @@
    ![Python Search](https://github.com/user-attachments/assets/ffd89487-ea79-4987-addd-01e29ffaced0)
 
 2. Install JupyterLab
-   - Open terminal/command prompt and run:
+   Open terminal/command prompt:
+
+
+   ![image](https://github.com/user-attachments/assets/8c573a20-fa64-41d8-bcbe-d7c848c9332f)
+   
+   Runt he code below:
    ```bash
-   pip install jupyterlab
+   pip install jupyter
    ```
    
-   ![Jupyter Install](https://github.com/user-attachments/assets/cdef80a6-9abe-464d-aa7c-fdd0dd75b9c2)
+   ![image](https://github.com/user-attachments/assets/75a14aea-2785-4e11-b844-00d5e9d849bc)
 
 3. Download Required Files
    - Download JupyterLab Files: [Download JupyterLab Files](https://github.com/10botics/codrone-simulator/blob/main/Drone%20Simulator.zip)
