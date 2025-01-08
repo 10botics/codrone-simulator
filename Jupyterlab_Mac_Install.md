@@ -19,12 +19,13 @@ This installation requires a desktop or laptop computer with full Administrator 
    - Extract Drone Simulator.zip to Desktop
 
 ### Opening JupyterLab
-1. Open the Drone Simulator folder on your Desktop
+1. Find the Drone Simulator folder on your Desktop
 
 2. Right-click (or Control+click) inside the Drone_Simulator folder
+
    <img width="379" alt="Screenshot 2024-12-20 at 11 27 45 AM" src="https://github.com/user-attachments/assets/f156d5b3-ef84-4100-9893-09974779b6e9" />
 
-3. Select "New Terminal at Folder" from the menu
+4. Select "New Terminal at Folder" from the menu
    - If you don't see this option:
      1. Press Command + Space to open Spotlight Search
      2. Type "Terminal" and press Enter
@@ -33,13 +34,13 @@ This installation requires a desktop or laptop computer with full Administrator 
         cd Desktop/Drone_Simulator
         ```
 
-4. In the Terminal window, start JupyterLab:
+5. In the Terminal window, start JupyterLab:
    ```bash
    jupyter lab
    ```
    <img width="387" alt="Screenshot 2024-12-20 at 12 14 44 PM" src="https://github.com/user-attachments/assets/055cc140-64a2-4410-87fd-ebd9a9f1c365" />
 
-5. Your default web browser will open with JupyterLab
+6. Your default web browser will open with JupyterLab
    <img width="850" alt="Screenshot 2024-12-20 at 11 55 27 AM" src="https://github.com/user-attachments/assets/5abe350b-6818-4364-bcf3-f59e0beb667a" />
 
 
