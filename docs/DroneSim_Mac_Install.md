@@ -10,7 +10,7 @@ Please follow the steps below for MacOS:
 ### Install Simulator
 
 1. Install the Drone Simulator through Mac App Store:
-   - Go to [Mac App Store](https://apps.apple.com/us/app/codrone-simulator/id6474696081)
+   - Go to [Mac App Store](https://apps.apple.com/hk/app/codrone-simulator/id6739762056?mt=12)
    - Click "Get" to download and install
 
 2. Launch the Simulator
