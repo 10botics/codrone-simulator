@@ -30,10 +30,15 @@ This project is about the software providing virtual simulation for CoDrone. Usi
 
 ### SDK
 - This SDK Contains the Drone Simulator API to control the Drone
+
+Windows
   ```bash
   pip install codrone_simulator
   ```
-
+MacOS
+  ```bash
+  pip3 install codrone_simulator
+  ```
 ## Install Drone Simulator
 
 
