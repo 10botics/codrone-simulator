@@ -24,4 +24,4 @@ This installation requires a desktop or laptop computer with full Administrator 
      ![image](https://github.com/user-attachments/assets/25b7bfac-d31b-45e5-92a5-4a0c4fd92208)
    - Note: If Python is already installed, you'll see your current version number
 
-   ### return to [README.md](./README.md) to install the SDK
+   ### return to [README.md](/README.md) to install the SDK

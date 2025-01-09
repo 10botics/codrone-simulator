@@ -9,4 +9,4 @@
 4. Follow the instructions in the notebook to move the drone in the simulator
 
 
-### return to [README.md](./README.md)
+### return to [README.md](/README.md)
