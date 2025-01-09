@@ -20,4 +20,4 @@
 ![image](https://github.com/user-attachments/assets/12fbed66-ff86-4b30-aa56-14cc0cf57293)
 
 
-   ### return to [README.md](./README.md)
+  ### Next Step, Install JupyterLab [Jupyterlab_Win_Install.md](./Jupyterlab_Win_Install.md)
