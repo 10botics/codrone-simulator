@@ -29,8 +29,10 @@
    - Right-click and select "Extract All..."
    - Choose "Desktop" as the destination
    - Click "Extract"
-   
-   ![image](https://github.com/user-attachments/assets/4b0905b0-901a-4248-81e7-402ccae49066)
+
+   ![WinGIFs](https://github.com/user-attachments/assets/5a383d8e-7fb0-4289-be50-b99f4dc9a9c4)
+
+
 ---
 ### Open JupyterLab
 1. Open Drone Simulator Folder on the Desktop
