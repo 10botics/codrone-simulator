@@ -22,8 +22,7 @@
 
 
 2. Download Required Files
-   - Download JupyterLab Files: [Download JupyterLab Files](https://github.com/10botics/codrone-simulator/blob/main/Drone%20Simulator.zip)
-   ![image](https://github.com/user-attachments/assets/d7daf959-4b1a-4ae2-acfe-26e78641a49b)
+   - Download JupyterLab Files: [Download JupyterLab Files](https://raw.githubusercontent.com/10botics/codrone-simulator/refs/heads/main/Drone%20Simulator.zip)
 
 3. Extract Files to Desktop
    - Locate the downloaded Drone Simulator.zip file

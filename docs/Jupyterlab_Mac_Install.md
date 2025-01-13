@@ -14,8 +14,7 @@ This installation requires a desktop or laptop computer with full Administrator 
      ![image](https://github.com/user-attachments/assets/4ad83ab1-0eae-404f-8388-5445d35c3b4c)
 
 2. Download Required Files
-   - Download JupyterLab Files: [Download JupyterLab Files](https://github.com/10botics/codrone-simulator/blob/main/Drone%20Simulator.zip)
-   ![image](https://github.com/user-attachments/assets/d7daf959-4b1a-4ae2-acfe-26e78641a49b)
+   - Download JupyterLab Files: [Download JupyterLab Files](https://raw.githubusercontent.com/10botics/codrone-simulator/refs/heads/main/Drone%20Simulator.zip)
    - Extract Drone Simulator.zip to Desktop
 
 ### Opening JupyterLab
