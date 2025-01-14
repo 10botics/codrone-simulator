@@ -30,7 +30,7 @@
    - Choose "Desktop" as the destination
    - Click "Extract"
 
-   ![WinGIFs](https://github.com/user-attachments/assets/5a383d8e-7fb0-4289-be50-b99f4dc9a9c4)
+![WinGIFszzsss](https://github.com/user-attachments/assets/0db142f8-93ac-4c4d-85f4-eea9957c7b68)
 
 
 ---
